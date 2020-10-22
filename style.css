@@ -1,0 +1,26 @@
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.grid img{
+    border:2px solid #000000;
+    border-radius: 50px;
+}
+html{
+    font-family: fantasy;
+    font-size: small;
+    background-color: #f7f2f2;
+}
+body{
+    margin: 0px;
+    
+}
+h1{
+    text-align:center;
+}
+.item{
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding:30px;
+}
